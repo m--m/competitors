@@ -1,1 +1,1 @@
-Parser of count of adverts from popular sites for real estates in Ukraine and save data in file.
+The getting count of adverts from popular sites for real estates in Ukraine and saving data in file.
